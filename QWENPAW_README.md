@@ -61,7 +61,7 @@ python qwenpaw_e2e.py
 
 ```python
 QWENPAW_PORT = 52143  # QwenPaw 端口
-MODEL_PATH = "/Users/diaby24/文档/Qwen/Qwen2.5-0.5B-Instruct"  # 模型路径
+MODEL_PATH = "models/qwen2.5-0.5b-instruct"  # 模型路径
 TOTAL_STEPS = 3  # 训练步数
 ```
 
